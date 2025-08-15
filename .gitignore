@@ -1,0 +1,30 @@
+# Pastas do Visual Studio
+.vs/
+bin/
+obj/
+TestResults/
+
+# Configurações de usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pacotes NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Publicações
+*.publish.xml
+
+# Arquivos de logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de sistema
+Thumbs.db
+Desktop.ini

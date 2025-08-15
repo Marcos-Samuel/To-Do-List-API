@@ -1,0 +1,4 @@
+DATABASE_URL=Host=localhost;Port=5432;Database=to-do-list-api;Username=seu_user;Password=sua senha.
+JWT_KEY=b7566de7d15a292a1c397a47d1080f8c0877f89f1d177c9127f6faf5bb598ce2
+JWT_ISSUER=admin
+JWT_AUDIENCE=teste-teste-teste
