@@ -1,3 +1,15 @@
+<table align="right">
+  <tr>
+    <td>
+      <a href="README.md">🇧🇷 Português</a>
+    </td>
+  </tr>
+</table>
+
+![luk4x-repo-status](https://img.shields.io/badge/status-developing-lightgrey?style=for-the-badge&logo=headspace&logoColor=yellow&color=lightgrey)
+![luk4x-repo-license](https://img.shields.io/github/license/Luk4x/apple-store?style=for-the-badge&logo=unlicense&logoColor=lightgrey)
+
+
 # To-Do List API
 
 API desenvolvida em **ASP.NET Core 8** para gerenciar tarefas, usuários e categorias de uma lista de afazeres. Utiliza **PostgreSQL** como banco de dados e JWT para autenticação.
@@ -72,3 +84,19 @@ To-Do List-API/
 ├── appsettings.json
 ├── Program.cs
 └── To-Do List-API.csproj
+```
+## 🧙‍♀️ Autor
+
+ <a href="https://www.linkedin.com/in/marcos-samuel-batista-m/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/121835618?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Marcos Samuel</b></sub></a>✨</a>
+ <br />
+---
+
+## 📝 Licença
+
+Feito por:
+<br/>
+Marcos Samuel [LinkedIn](https://www.linkedin.com/in/marcos-samuel-batista-m/)
+<br/>
